@@ -46,7 +46,8 @@ class CategoriesControllerTestCase extends CakeTestCase {
 	public function setUp() {
 		parent::setUp();
 
-		$this->Categories = 	}
+		//$this->Categories = ;
+	}
 
 /**
  * tearDown method

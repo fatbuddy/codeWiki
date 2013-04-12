@@ -34,6 +34,7 @@ App::uses('Controller', 'Controller');
 class AppController extends Controller {
 
 	public $components = array(
+        'Paginator',
 	);
 
     public $helpers = array(
@@ -42,6 +43,7 @@ class AppController extends Controller {
         'Time',
         'Number',
         'Session',
+        'Paginator',
         'Js',
     );
 

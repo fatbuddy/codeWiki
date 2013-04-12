@@ -46,7 +46,8 @@ class PostsControllerTestCase extends CakeTestCase {
 	public function setUp() {
 		parent::setUp();
 
-		$this->Posts = 	}
+		//$this->Posts = 	
+	}
 
 /**
  * tearDown method
